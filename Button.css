@@ -1,0 +1,23 @@
+.div1{
+    height: 250px;
+    width: 300px;
+    background-color: rgb(15, 14, 14);
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+
+.p{
+    align-items: center;
+    text-align: center;
+    font-size: 42px;
+    color: aqua;
+}
+.but1{
+    margin-top: 23px;
+    margin-left: 35px;
+    height: 30px;
+    width: 100px;
+    background-color: whitesmoke;
+
+}
